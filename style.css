@@ -1,0 +1,200 @@
+/* body {
+  font-family: Verdana;
+  font-size: 2em;
+} */
+
+/* 6. */
+
+/* #countLabel {
+  display: block;
+  text-align: center;
+  font-size: 10em;
+  font-family: Helvetica;
+}
+
+#btnContainer {
+  text-align: center;
+}
+
+.buttons {
+  padding: 10px 20px;
+  font-size: 1.5em;
+  color: white;
+  background-color: hsl(214, 100%, 74%);
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.25s;
+}
+
+.buttons:hover {
+  background-color: hsl(214, 100%, 56%);
+} */
+
+/* 24. */
+
+/* body {
+  font-family: Arial, sans-serif;
+  background-color: hsl(0, 0%, 65%);
+}
+
+form {
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+  max-width: 350px;
+  margin: auto;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px hsla(0, 0%, 0%, 0.3);
+}
+
+#textBox {
+  width: 50%;
+  text-align: center;
+  font-size: 2em;
+  border: 2px solid hsla(0, 0%, 0%, 0.8);
+  border-radius: 4px;
+  margin-bottom: 15px;
+}
+
+label {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+button {
+  margin-top: 15px;
+  background-color: hsl(0, 100%, 60%);
+  color: white;
+  font-size: 1.5em;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: hsl(0, 100%, 50%);
+}
+
+#result {
+  font-size: 1.75em;
+  font-weight: bold;
+} */
+
+/* 62-1 */
+/* .box {
+  border: 3px solid;
+  width: 100%;
+  height: 125px;
+} */
+
+/* 62-2 */
+/* #fruits {
+  border: 3px solid;
+  font-size: 2rem;
+} */
+
+/* 63 */
+/* #myBox {
+  background-color: lightgreen;
+  width: 300px;
+  height: 300px;
+  font-size: 4.5rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  text-align: cent lightgreen;
+} */
+
+/* 64 */
+/* body {
+  margin: 0;
+}
+#myBox {
+  background-color: lightblue;
+  width: 200px;
+  height: 200px;
+  font-size: 7.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+} */
+
+/* 66 */
+/* .myButtons {
+  font-size: 4rem;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  background-color: hsl(205, 100%, 60%);
+  color: white;
+} */
+
+/* 67 */
+
+/* #myButton {
+  font-size: 4rem;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+}
+.enabled {
+  background-color: hsl(204, 100%, 50%);
+  color: white;
+}
+
+.hover {
+  box-shadow: 0 0 10px hsla(0, 0%, 8%, 8.2);
+  font-weight: bold;
+}
+
+.disabled {
+  background-color: hsl(0, 0%, 60%);
+  color: hsl(0, 0%, 80%);
+} */
+
+/* 68 */
+/* body {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  font-size: 3.5rem;
+  color: hsl(0, 0%, 20%);
+}
+
+.choices {
+  margin-bottom: 30px;
+}
+
+.choices button {
+  font-size: 7.5rem;
+  min-width: 160px;
+  margin: 0 10px;
+  border-radius: 250px;
+  background-color: hsl(200, 100%, 50%);
+  cursor: pointer;
+  transition: background-color0.5s ease;
+}
+
+.choices button :hover {
+  background-color: hsl (200, 100%, 70%);
+}
+
+#playerDisplay,
+#computerDisplay {
+  font-size: 2.5rem;
+}
+
+#resultDisplay {
+  font-size: 5rem;
+  margin: 30px 0;
+} */
